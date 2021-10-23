@@ -6,7 +6,7 @@
 
 - 👨‍💻 My projects are currently unavailable
 
-- ▶️ I regulary post videos on [instagram.com/marcos_schuster_kreutz](https://www.instagram.com/marcos_schuster_kreutz/)
+- ▶️ I regulary post videos on [instagram.com/eumarcosschuster](https://www.instagram.com/eumarcosschuster/)
 
 - 💬 Ask me about **JavaScript, HTML, CSS**
 
